@@ -187,7 +187,7 @@ class Developer implements Employee{
 
  
 
-public class CompositeEg {
+public class Assignment5 {
 	 public static void main(String[] args) {
 		 try
 		 {
