@@ -2,7 +2,7 @@ package assignmentday4;
 
 import java.sql.*;
 
-public class TweetEg2 {
+public class Assignment2 {
 	
 	public static void main(String args[]) {
 		try {
