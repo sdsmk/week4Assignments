@@ -70,7 +70,7 @@ class FacadeClass implements OSAPI{
     }
 }
 
-public class FacadeExample {
+public class Assignment4 {
    public static void main(String[] args) {
       FacadeClass obj = new FacadeClass();
 
