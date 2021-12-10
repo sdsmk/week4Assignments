@@ -2,7 +2,7 @@ package Day4Assignments;
 
 import java.sql.*;
 
-public class TweetEg {
+public class Assignment1 {
 	public static void main(String args[]) {
 	try {
 	// 1 - load the driver
